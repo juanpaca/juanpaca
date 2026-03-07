@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
 - :credit_card: My name is **Juan Felipe Pacazuca Santiago**  
-- :school: I'm currently pursuing a master's degree in Computational Modelling at **National Laboratory for Scientific Computing**
+- :school: I'm currently pursuing a Ph.D in Computational Modelling at **National Laboratory for Scientific Computing**
 - :books: My major is in **Mathematics**
 - :earth_americas: I'm living now in **Petrópolis, Brazil**
 - :bulb: I am interested in parallelizable numerical methods for partial differential equations on porous media and scientific machine learning.
