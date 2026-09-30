@@ -4,7 +4,7 @@
 - :school: I'm currently pursuing a Ph.D in Computational Modelling at **National Laboratory for Scientific Computing**
 - :books: My major is in **Mathematics**
 - :earth_americas: I'm living now in **Petrópolis, Brazil**
-- :bulb: I am interested in parallelizable numerical methods for partial differential equations on porous media and scientific machine learning.
+- :bulb: I am interested in multiscale strategies for EDPs on multiphase flow and scientific machine learning.
 
 ---
 
